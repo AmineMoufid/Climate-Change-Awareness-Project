@@ -21,7 +21,7 @@ Climate change is one of the most pressing global challenges of our time. This d
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/climate-insights-dashboard.git
+git clone https://github.com/AmineMoufid/Climate-Change-Awareness-Project.git
 cd climate-insights-dashboard
 ```
 
@@ -93,7 +93,7 @@ Contributions are welcome! Feel free to fork the repository, raise issues, or su
 
 For questions or suggestions, reach out to:
 - **Email**: amine.moufid.contact@gmail.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **GitHub**: [@AmineMoufid](https://github.com/AmineMoufid)
 
 ---
 

@@ -99,6 +99,3 @@ For questions or suggestions, reach out to:
 
 Let’s work together to raise awareness and protect our planet! 🌱💡🌍
 
---- 
-
-If you'd like, I can also tailor this further or add specific details related to deployment, advanced features, or citation styles. Let me know!

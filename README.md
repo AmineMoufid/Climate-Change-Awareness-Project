@@ -93,7 +93,7 @@ Contributions are welcome! Feel free to fork the repository, raise issues, or su
 
 For questions or suggestions, reach out to:
 - **Email**: amine.moufid.contact@gmail.com
-- **GitHub**: [@AmineMoufid](https://github.com/AmineMoufid)
+- **LinkedIn**: [@AmineMoufid](https://ma.linkedin.com/in/amine-moufid)
 
 ---
 
